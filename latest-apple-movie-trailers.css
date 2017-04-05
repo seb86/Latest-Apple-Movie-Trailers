@@ -1,0 +1,17 @@
+.trailers{ width:100%; }
+.trailer{ min-width:134; float:left; display:block; margin-bottom:10px; }
+.trailer.caption{ float:left; display:block; }
+.trailer .poster{ float:left; margin-right:10px; margin-bottom:6px; }
+.trailer .poster img{ border:none; }
+.trailer.normal .poster{ width:134px; }
+.trailer.large .poster{ width:261px; }
+.trailer.extra .poster{ width:540px; }
+.trailer .description{ float:left; width:100%; clear:left; display:block; margin-top:0px; }
+.trailer .description h3{ margin:0px 0px 6px 0px !important; }
+.trailer .description p{ margin:4px 0px !important; }
+.trailer .description em{ color:rgb(209, 13, 60); }
+.trailer.caption .description{ clear:right; margin-top:0px; }
+.trailer.caption .description h3{ margin:0px 0px 6px 0px; }
+.trailer.normal.caption .description{ width:70%; }
+.trailer.large.caption .description{ width:60%; }
+.trailer.extra.caption .description{ width:30%; }
